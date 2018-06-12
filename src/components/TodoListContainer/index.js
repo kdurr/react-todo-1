@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import TodoList from '../../components/TodoList';
-import TodoInput from '../../components/TodoInput';
+import TodoList from '../TodoList';
+import TodoInput from '../TodoInput';
 
 class TodoContainer extends Component {
   state = {
